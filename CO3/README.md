@@ -1,7 +1,5 @@
 # NLP Lab Programs — Questions 22–32
 
-Python filenames use numbers only (no `q` prefix).
-
 Install the dependency for the program you want to run:
 - 22: `pip install tensorflow numpy`
 - 23: `pip install numpy`
